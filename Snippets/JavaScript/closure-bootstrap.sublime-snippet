@@ -1,0 +1,18 @@
+<snippet>
+    <content><![CDATA[
+!function($2) {
+
+	$0
+	
+} ($1)
+]]></content>
+    <tabTrigger>!</tabTrigger>
+    <scope>source.js</scope>
+    <description>Closure with Bootstrap style</description>
+</snippet>
+<!--snippet>
+    <content><![CDATA[function($1) {${0:$TM_SELECTED_TEXT}};]]></content>
+    <tabTrigger>f</tabTrigger>
+    <scope>source.js</scope>
+    <description>Anonymous Function</description>
+</snippet-->
